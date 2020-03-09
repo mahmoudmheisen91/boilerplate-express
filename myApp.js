@@ -1,5 +1,5 @@
-var express = require("express");
-var app = express();
+let express = require("express");
+let app = express();
 
 // --> 7)  Mount the Logger middleware here
 
